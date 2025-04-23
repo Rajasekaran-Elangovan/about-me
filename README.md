@@ -1,6 +1,6 @@
 # 🌟 Passion Projects by Rajasekaran E
 
-Welcome! This repository is a curated showcase of my personal passion projects that reflect my journey in data analysis, web app development, and creative exploration using **R Programming**, **R Shiny**, and **OpenAI LLMs**. Each project demonstrates unique technical challenges, creative solutions, and my continuous growth as a developer and data enthusiast.
+Welcome! This repository is a curated showcase of my personal passion projects that reflect my journey in data analysis, web app development, and creative exploration using **R Programming**, **R Shiny**, and **Large Languag Model (LLM)/AI Powered Web Applications**. Each project demonstrates unique technical challenges, creative solutions, and my continuous growth as a developer and data enthusiast.
 
 ---
 
@@ -17,42 +17,40 @@ An interactive R Shiny app that displays a trend line plot of NSE Index data ret
 
 - 🔧 Tech Stack: R, R Shiny, ggplot2
 - 📎 [GitHub Repository](https://github.com/your-username/learning-r-shiny)
-- 🌐 [Live Demo](https://your-shiny-app-link.com)
+
+---
+### 2. 📊 Clinical Data Visualization App  
+A Shiny app that visualizes clinical trial data using interactive boxplots, enabling users to explore patient metrics and outliers with clarity.
+
+- 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/shiny_app_boxplot/)
 
 ---
 
-### 2. 🧠 OpenAI-Powered Chat Assistant
-A Shiny web app that integrates OpenAI’s LLMs to provide an intelligent chat interface for study-related support.
+### 2. 💰 CTC to Take Home Salary Calculator  
+A financial calculator designed for Indian employees. It converts the annual CTC (Cost to Company) into a monthly in-hand salary estimate.
 
-- 🔧 Tech Stack: R, Shiny, OpenAI API
-- 📎 [GitHub Repository](https://github.com/your-username/openai-chat-assistant)
-- 🌐 [Live Demo](https://your-shiny-chatbot-demo.com)
+- 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/ctc2inhand/)
 
 ---
 
-### 3. 📊 COVID-19 Dashboard
-A data visualization dashboard built using Shiny to explore COVID-19 data trends globally and locally.
+### 3. 🗨️ Private Chat Bot  
+A private, LLM-integrated chatbot hosted in Shiny. It simulates a custom-trained assistant capable of answering specific domain-related queries.
 
-- 🔧 Tech Stack: R, Shiny, plotly
-- 📎 [GitHub Repository](https://github.com/your-username/covid19-dashboard)
-- 🌐 [Live Demo](https://your-covid-dashboard.com)
+- 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/privatechatbot/)
 
 ---
 
-### 4. 📚 Academic Dataset Builder
-A utility that builds analysis-ready datasets from raw academic records, with a focus on standardization and validation.
+### 4. 📈 LLM-Powered Data Visualization  
+An app that uses a Large Language Model to interpret and generate visualizations from user-provided datasets or prompts. A unique combination of AI and data exploration.
 
-- 🔧 Tech Stack: R, tidyverse, readr
-- 📎 [GitHub Repository](https://github.com/your-username/academic-dataset-builder)
+- 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/Largelang-visualisation/)
 
 ---
 
-### 5. 🌦️ Weather Trend Visualizer
-This Shiny app connects to a weather API and plots temperature and precipitation trends over time.
+### 5. 🧾 Patient Narrative Generator  
+This tool generates clinical patient narratives by processing structured trial data and producing consistent summaries. Powered by OpenAI and formatted using R Shiny.
 
-- 🔧 Tech Stack: R, Shiny, httr, ggplot2
-- 📎 [GitHub Repository](https://github.com/your-username/weather-visualizer)
-- 🌐 [Live Demo](https://your-weather-app-demo.com)
+- 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/PatientNarratives/)
 
 ---
 
@@ -67,8 +65,9 @@ A support tool using R Shiny and OpenAI to help junior staff understand trial pr
 
 ## 📬 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin) or reach out via [Email](mailto:your.email@example.com).
-
+**Feel free to connect with me on**
+- 📧 Email: rajapharma1998@gmail.com 
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rajasekaran-elangovan-0b6a06190/)  
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
