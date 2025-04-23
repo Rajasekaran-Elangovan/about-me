@@ -1,4 +1,4 @@
-# 🌟 Passion Projects by Rajasekaran E
+![image](https://github.com/user-attachments/assets/cd6c5dc1-0467-475e-a33f-2925bf6d1e0c)# 🌟 Passion Projects by Rajasekaran E
 
 Welcome! This repository is a curated showcase of my personal passion projects that reflect my journey in data analysis, web app development, and creative exploration using **R Programming**, **R Shiny**, and **Large Languag Model (LLM)/AI Powered Web Applications**. Each project demonstrates unique technical challenges, creative solutions, and my continuous growth as a developer and data enthusiast.
 
@@ -16,50 +16,44 @@ I'm a Clinical Statistical Programmer with 5 years of experience in the CRO sect
 An interactive R Shiny app that displays a trend line plot of NSE Index data retrieved from the NSE website.
 
 - 🔧 Tech Stack: R, R Shiny, ggplot2
-- 📎 [GitHub Repository](https://github.com/your-username/learning-r-shiny)
-
+- 📎 [GitHub Repository](https://github.com/Rajasekaran-Elangovan/learnr-shiny)
 ---
 ### 2. 📊 Clinical Data Visualization App  
-A Shiny app that visualizes clinical trial data using interactive boxplots, enabling users to explore patient metrics and outliers with clarity.
+A Shiny app that visualizes clinical trial Lab and vitals data using interactive graphs, enabling users to explore patient metrics with clarity.
 
-- 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/shiny_app_boxplot/)
+- 🔧 Dependent Libraries: Shiny, Tidyverse, SafetyData
+**shiny app for box plot can be accessed by below Live Demo link**
+- 🌐 [Live Demo of Box Plot](https://capcon-tech-raja.shinyapps.io/shiny_app_boxplot/)
 
+- 📎 [GitHub Repository of Swimmers plot](https://github.com/Rajasekaran-Elangovan/learnr-shiny)
 ---
 
-### 2. 💰 CTC to Take Home Salary Calculator  
+### 3. 💰 CTC to Take Home Salary Calculator  
 A financial calculator designed for Indian employees. It converts the annual CTC (Cost to Company) into a monthly in-hand salary estimate.
-
+**This web app calculator can be accessed by below Live Demo link**
 - 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/ctc2inhand/)
 
 ---
 
-### 3. 🗨️ Private Chat Bot  
-A private, LLM-integrated chatbot hosted in Shiny. It simulates a custom-trained assistant capable of answering specific domain-related queries.
+### 4. 🗨️ Private Chat Bot  
+A private, LLM-integrated chatbot hosted in Shiny. It simulates a custom assistant called Visora capable of answering any queries completely built on R. This Project is powered by commercially available Large language model (LLM). In this project I have experimented the usage of LLMs in R programming environment.
 
+**This hosted Chat Bot can be accessed by below Live Demo link**
 - 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/privatechatbot/)
 
 ---
 
-### 4. 📈 LLM-Powered Data Visualization  
-An app that uses a Large Language Model to interpret and generate visualizations from user-provided datasets or prompts. A unique combination of AI and data exploration.
+### 5. 📈 LLM-Powered Data Visualization  
+An app that uses a Large Language Model to interpret the user modified visualizations plots and explain. A unique combination of AI and data exploration.
 
 - 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/Largelang-visualisation/)
 
 ---
 
-### 5. 🧾 Patient Narrative Generator  
-This tool generates clinical patient narratives by processing structured trial data and producing consistent summaries. Powered by OpenAI and formatted using R Shiny.
+### 6. 🧾 Patient Narrative Generator  
+This tool generates clinical patient narratives by processing ADAM data and produces summaries. Powered by AI LLM and formatted using R Shiny.
 
 - 🌐 [Live Demo](https://capcon-tech-raja.shinyapps.io/PatientNarratives/)
-
----
-
-### 6. 📑 Clinical Trial Data Companion
-A support tool using R Shiny and OpenAI to help junior staff understand trial protocols and data collection forms.
-
-- 🔧 Tech Stack: R, Shiny, OpenAI LLM
-- 📎 [GitHub Repository](https://github.com/your-username/clinical-trial-companion)
-- 🌐 [Live Demo](https://your-clinical-demo.com)
 
 ---
 
