@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cd6c5dc1-0467-475e-a33f-2925bf6d1e0c)# 🌟 Passion Projects by Rajasekaran E
+# 🌟 Passion Projects by Rajasekaran E
 
 Welcome! This repository is a curated showcase of my personal passion projects that reflect my journey in data analysis, web app development, and creative exploration using **R Programming**, **R Shiny**, and **Large Languag Model (LLM)/AI Powered Web Applications**. Each project demonstrates unique technical challenges, creative solutions, and my continuous growth as a developer and data enthusiast.
 
@@ -6,7 +6,7 @@ Welcome! This repository is a curated showcase of my personal passion projects t
 
 ## 👤 About Me
 
-I'm a Clinical Statistical Programmer with 5 years of experience in the CRO sector, specializing in Respiratory, Inflammatory, and Immuno-oncology therapeutic areas. Expert in SAS and R programming, with a proven ability to lead projects, automate metrics, and enhance reporting efficiencies. Holding a B.Tech in Pharmaceutical Technology and an MBA, along with a certification in R for Data Science. Eager to leverage emerging technologies for process improvement and pursue management roles to drive strategic initiatives.
+I'm a Statistical Programmer working in a Healthcare sector. Expert in SAS and R programming, with a proven ability to lead projects, automate metrics, and enhance reporting efficiencies. Holding a B.Tech in Pharmaceutical Technology and an MBA, along with a certification in R for Data Science. Eager to leverage emerging technologies for process improvement.
 
 ---
 
