@@ -61,7 +61,7 @@ This tool generates clinical patient narratives by processing ADAM data and prod
 
 **Feel free to connect with me on**
 - 📧 Email: rajapharma1998@gmail.com 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rajasekaran-elangovan-0b6a06190/)  
+- 💼 LinkedIn: [Rajasekaran E profile](https://www.linkedin.com/in/rajasekaran-elangovan-0b6a06190/)  
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
